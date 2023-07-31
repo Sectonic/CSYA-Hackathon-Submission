@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "healthcare",
-    "slug": "healthcare"
+    "slug": "healthcare",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
